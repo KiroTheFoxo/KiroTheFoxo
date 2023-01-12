@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LilKitteNebula!
+- 👋 Hi, I’m Stell!
 - 👀 I’m interested in Retro and Modern Technology
 - 🌱 I’m currently learning how to code websites and applications
 - 💞️ I'm not really interested in collaborating at the moment.
