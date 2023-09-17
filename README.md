@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Harlan! (you can also call me Astro)
+- 👋 Hi, I’m Ryzen
 - 👀 I’m interested in Retro and Modern Technology
 - 🌱 I’m currently learning how to code in Python
-- I'm currently working on an app called Interlink
+- I'm currently working on a social platform called [Interlink Social] (https://github.com/Interlink-Social)
 - 💞️ I'm not really interested in collaborating at the moment.
 - 📫 How to reach me - Send me a email at "harlan.roberts.jr@icloud.com".
 
