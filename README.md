@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ryzen
 - 👀 I’m interested in Retro and Modern Technology
 - 🌱 I’m currently learning how to code in Python
-- I'm currently working on a social platform called Interlink Social
 - 💞️ I'm not really interested in collaborating at the moment.
 - 📫 How to reach me - Send me a email at "harlan.roberts.jr@icloud.com".
 
